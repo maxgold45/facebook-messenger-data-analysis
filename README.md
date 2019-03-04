@@ -13,6 +13,19 @@ In this project I have a few goals:
 Inspired by:
 
     1. https://hackernoon.com/analysing-your-facebook-messenger-chat-a099b0c69652
+    
     2. Cambridge Anayltica Breach- What can I learn about myself?
+    
     3. Family group chat and long distance girlfriend both use primarily Messenger.
+    
     4. Hilarious texts dating back to my middle school years.
+    
+How to access your data:
+
+    1. Facebook.com
+    
+    2. Settings
+    
+    3. Your Facebook Information --> Download your information
+    
+    4. Select only messages (then decide on JSON or HTML) and then download it.
