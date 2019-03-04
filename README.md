@@ -9,3 +9,10 @@ In this project I have a few goals:
     2. Improve my Python skills by writing this program to analyze either (maybe both?) the JSON files or HTML files.
     
     3. Learn about Natural Language Processing
+
+Inspired by:
+
+    1. https://hackernoon.com/analysing-your-facebook-messenger-chat-a099b0c69652
+    2. Cambridge Anayltica Breach- What can I learn about myself?
+    3. Family group chat and long distance girlfriend both use primarily Messenger.
+    4. Hilarious texts dating back to my middle school years.
